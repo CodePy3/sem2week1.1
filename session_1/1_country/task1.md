@@ -1,5 +1,6 @@
 # Task 1
-
+.mode column
+.headers on
 ## Exercises
 1. Retrieve all data from the countries table.
 2. Select only the Country and Population columns.
