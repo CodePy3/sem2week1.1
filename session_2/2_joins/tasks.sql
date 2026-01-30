@@ -7,3 +7,4 @@
 -- 2. Load this script: .read tasks.sql
 -- 3. Exit SQLite: .exit
 
+SELECT * FROM users JOIN posts ON users.id = posts.id LIMIT 20;
