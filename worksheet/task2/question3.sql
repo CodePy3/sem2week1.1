@@ -1,5 +1,5 @@
-# Name: Jonathan Monks
-# StudentID: 201968903
+-- Name: Jonathan Monks
+-- StudentID: 201968903
 
 -- For each department, calculate the number of enrolments in its courses.
 -- Expected Columns:
